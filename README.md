@@ -6,3 +6,4 @@ To launch:
 3. Place all the files from this repository in the folder you just created
 4. Configure MySQL via PHPMyAdmin and create a database "shopping_list"
 5. In the database add a table "items" with two columns "id" and "item_name"
+6. Configure the "id" column to be auto_increment
